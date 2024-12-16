@@ -1,1 +1,1 @@
-asttokens == 2.0.5
+asttokens == 3.0.0
